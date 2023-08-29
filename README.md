@@ -8,3 +8,4 @@
 ![pay](https://github.com/seeharrr/programming-fundamental/assets/142153282/a697825d-252e-4fc8-b8e1-826daa3937cb)
 ![square and cube](https://github.com/seeharrr/programming-fundamental/assets/142153282/01c004c5-414b-44c1-9fcd-2e1f13b258b1)
 ![speed](https://github.com/seeharrr/programming-fundamental/assets/142153282/5753b040-721f-4b26-adef-0931ba8feac5)
+![greatest among three](https://github.com/seeharrr/programming-fundamental/assets/142153282/4c5d3df8-ddf7-4249-a532-3ae7776771d5)
