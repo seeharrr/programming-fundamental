@@ -9,3 +9,6 @@
 ![square and cube](https://github.com/seeharrr/programming-fundamental/assets/142153282/01c004c5-414b-44c1-9fcd-2e1f13b258b1)
 ![speed](https://github.com/seeharrr/programming-fundamental/assets/142153282/5753b040-721f-4b26-adef-0931ba8feac5)
 ![greatest among three](https://github.com/seeharrr/programming-fundamental/assets/142153282/4c5d3df8-ddf7-4249-a532-3ae7776771d5)
+![area](https://github.com/seeharrr/programming-fundamental/assets/142153282/6416613c-07f3-44d7-9a50-ab9d9a0dde07)
+![average](https://github.com/seeharrr/programming-fundamental/assets/142153282/0010cc54-19a3-4512-8ff8-dc3981861eda)
+![greatest value](https://github.com/seeharrr/programming-fundamental/assets/142153282/23cbdff7-2bd5-45b7-ade8-bbf7380d94b4)
