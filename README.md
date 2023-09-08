@@ -15,3 +15,5 @@
 ![pay](https://github.com/seeharrr/programming-fundamental/assets/142153282/62a7668b-24b2-4fdc-8a87-48fa9488e8b8)
 ![square and cube](https://github.com/seeharrr/programming-fundamental/assets/142153282/f84b5d43-dce6-4679-b868-b8035c22399c)
 ![sum](https://github.com/seeharrr/programming-fundamental/assets/142153282/9ee3220d-fc11-4e62-b8b0-a443c8c8e859)
+![farhenhiet](https://github.com/seeharrr/programming-fundamental/assets/142153282/597739f9-deb1-437c-8892-c1c04ca745e4)
+![speed](https://github.com/seeharrr/programming-fundamental/assets/142153282/1517c671-68d9-4975-818f-05619c633c8e)
